@@ -14,5 +14,5 @@ This project automates the end-to-end (E2E) functional testing of the OpenInApp 
 
 ## Project Structure
 
-<img width="299" alt="image" src="https://github.com/user-attachments/assets/9d41242f-89f4-420f-9ba5-1d3c5fca9b9f">
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/9d41242f-89f4-420f-9ba5-1d3c5fca9b9f">
 
