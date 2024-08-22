@@ -33,3 +33,18 @@ This project automates the end-to-end (E2E) functional testing of the OpenInApp 
 - Modify the config.properties file in the src/test/resources/ directory with your credentials and URLs:
   - userEmail, password for OpenInApp login
   - instaUrl, instausername, instapassword for Instagram login
+
+## Running Tests:
+  ```
+   mvn clean test
+   ```
+
+# Test Scenarios
+1. Login to OpenInApp Dashboard
+- **Test:** Automates the login process to the OpenInApp dashboard using Google login.
+2. Generate TopSecret Links
+- **Test:** Generates four distinct TopSecret links with unique titles and stores them.
+3. Login to Instagram
+- **Test:** Logs into Instagram and navigates to the profile section.
+4. Add Links to Instagram Bio
+- **Test:** Adds the generated links to the Instagram bio and saves the profile.
